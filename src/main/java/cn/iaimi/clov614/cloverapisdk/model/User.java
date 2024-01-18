@@ -1,4 +1,4 @@
-package com.github.clov614.cloverapisdk.model;
+package cn.iaimi.clov614.cloverapisdk.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

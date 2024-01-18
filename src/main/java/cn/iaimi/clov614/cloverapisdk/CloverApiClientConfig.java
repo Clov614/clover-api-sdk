@@ -1,6 +1,6 @@
-package com.github.clov614.cloverapisdk;
+package cn.iaimi.clov614.cloverapisdk;
 
-import com.github.clov614.cloverapisdk.client.CloverApiClient;
+import cn.iaimi.clov614.cloverapisdk.client.CloverApiClient;
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;

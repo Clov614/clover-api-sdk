@@ -1,4 +1,4 @@
-package com.github.clov614.cloverapisdk.utils;
+package cn.iaimi.clov614.cloverapisdk.utils;
 
 import cn.hutool.crypto.digest.DigestAlgorithm;
 import cn.hutool.crypto.digest.Digester;

@@ -1,12 +1,12 @@
-package com.github.clov614.cloverapisdk.client;
+package cn.iaimi.clov614.cloverapisdk.client;
 
 import cn.hutool.core.util.RandomUtil;
 import cn.hutool.http.HttpRequest;
 import cn.hutool.http.HttpResponse;
 import cn.hutool.http.HttpUtil;
 import cn.hutool.json.JSONUtil;
-import com.github.clov614.cloverapisdk.model.User;
-import com.github.clov614.cloverapisdk.utils.SignUtils;
+import cn.iaimi.clov614.cloverapisdk.model.User;
+import cn.iaimi.clov614.cloverapisdk.utils.SignUtils;
 
 import java.util.HashMap;
 import java.util.Map;

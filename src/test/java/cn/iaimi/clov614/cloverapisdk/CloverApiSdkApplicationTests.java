@@ -1,4 +1,4 @@
-package com.github.clov614.cloverapisdk;
+package cn.iaimi.clov614.cloverapisdk;
 
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
