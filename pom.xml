@@ -66,6 +66,30 @@
         </plugins>
     </build>
 
+    <url>例子：https://github.com/Karosown/KaTool</url>
+
+    <!--开发者信息-->
+    <developers>
+        <developer>
+            <id>Clov614</id>
+            <name>Clov614</name>
+            <email>clov614@gmail.com</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+            <timezone>+8</timezone>
+        </developer>
+    </developers>
+
+    <!--开源协议...-->
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
+        </license>
+    </licenses>
 
 
 </project>
