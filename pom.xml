@@ -124,6 +124,14 @@
 
     </build>
 
+    <scm>
+        <url>https://github.com/Clov614/clover-api-sdk</url>
+        <connection>https://github.com/Clov614/clover-api-sdk.git</connection>
+        <developerConnection>https://github.com/Clov614/clover-api-sdk.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
+
     <url>https://github.com/Clov614/clover-api-sdk</url>
 
     <!--开发者信息-->
