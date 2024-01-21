@@ -24,6 +24,12 @@ public class CloverApiClient {
 
     private String serverUrl;
 
+    public CloverApiClient(String accessKey, String secretKey) {
+        this.accessKey = accessKey;
+        this.secretKey = secretKey;
+        this.serverUrl = "http://localhost:8123";
+    }
+
     public CloverApiClient(String accessKey, String secretKey, String serverUrl) {
         this.accessKey = accessKey;
         this.secretKey = secretKey;
